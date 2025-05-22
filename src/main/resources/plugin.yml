@@ -1,0 +1,4 @@
+name: ItemDurability
+version: '1.0'
+main: by.kotor.item.durability.Plugin
+api-version: '1.21'
